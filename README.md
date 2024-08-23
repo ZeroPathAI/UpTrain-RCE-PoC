@@ -1,6 +1,6 @@
 # UpTrain RCE Proof of Concept
 
-This repository contains a Proof of Concept (PoC) script demonstrating a vulnerability in UpTrain. **This tool is for educational and authorized testing purposes only.**
+This repository contains a Proof of Concept (PoC) script demonstrating a [RCE vulnerability in UpTrain](https://zeropath.com/blog/uptrain-rce-vulnerability-analysis). **This tool is for educational and authorized testing purposes only.**
 
 ## Usage
 
